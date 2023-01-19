@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    font-size:1.8rem;
+}
+
+.para{
+    color: purple;
+    margin: auto;
+    text-align: center;
+    margin-top: 3rem;
+    font-weight: 800;
+}
+.span{
+    font-weight: 600;
+    color: black;
+    border-right: 1px solid transparent;
+}
+.blip{
+border-right: 1px solid black;
+}
+
+/* The animation code */
